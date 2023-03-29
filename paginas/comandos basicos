@@ -1,0 +1,25 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+<h1>Pagina de Comandos básicos</h1>
+<h2>Menu</h2>
+<ol>
+    <li><a href="../index.html">HOME</a></li>
+    <a href="listas.html"><li>Lista</li></a>
+    <li>Lista de Termos</li>
+</ol>
+<a href="../index.html">Página Inicial</a>    
+</body>
+</html>
+git config --global user.email "vitoriaizidoro003@mail.com"
+
+git config --global user.name "VITORIAIZIDORO"
+
+
+
